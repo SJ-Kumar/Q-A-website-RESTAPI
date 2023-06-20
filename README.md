@@ -19,5 +19,5 @@ To get the Node server running locally:
 
 ## Complete Documentation with proper specifications
 
-Detailed information can be found in [this specifications](./Q & A WEBSITE USING REST API DOCUMENTATION.pdf)
+Detailed information can be found in [this specifications](./Q%20%26%20A%20WEBSITE%20USING%20REST%20API%20DOCUMENTATION.pdf)
 
