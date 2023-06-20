@@ -13,6 +13,10 @@ To get the Node server running locally:
 - `node dummy-generator.js --import` to load dummy data to database
 - `npm run dev` to start the local server
 
+## MongoDB Database Screenshots
+
+[Screenshots](./MongoDB%20Updation%20Screenshots)
+
 ## Complete Documentation with proper specifications
 
 Detailed information can be found in [this specifications](./Q & A WEBSITE USING REST API DOCUMENTATION.pdf)
