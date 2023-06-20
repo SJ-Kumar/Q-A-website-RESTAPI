@@ -17,7 +17,7 @@ To get the Node server running locally:
 
 [Screenshots](./MongoDB%20Updation%20Screenshots)
 
-## Complete Documentation with proper specifications
+## Complete Documentation with my REST API Functionalities
 
 Detailed information can be found in [this specifications](./Q%20%26%20A%20WEBSITE%20USING%20REST%20API%20DOCUMENTATION.pdf)
 
