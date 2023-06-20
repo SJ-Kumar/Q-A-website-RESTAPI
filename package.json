@@ -1,5 +1,5 @@
 {
-  "name": "question-answer-api",
+  "name": "Q-A-website-RESTAPI",
   "version": "1.0.0",
   "description": "Question & Answer - Rest Api",
   "main": "server.js",
@@ -14,7 +14,7 @@
     "rest",
     "api"
   ],
-  "author": "Mustafa Murat Coşkun",
+  "author": "Jayanth Kumar",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
